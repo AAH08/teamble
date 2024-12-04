@@ -11,4 +11,7 @@ This is an application for learning Vue JS & Node JS
 
 This application on port 3000
 
+Front End by Vue JS
+Back End by Node js
+& Database is MongoDB 
 <!-- this is test commend for our git project -->
